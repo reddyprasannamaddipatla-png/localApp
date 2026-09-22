@@ -2,11 +2,11 @@
 my info
 about personal infromation
 skills
-java 
+java
 python
-c
 
-
-
+bvgcfrx
+ghgtdrgyfvg
+fgyghg
 
 
